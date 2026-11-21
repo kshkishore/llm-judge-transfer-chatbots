@@ -1,0 +1,104 @@
+{
+ "phase1": {
+  "eval_calls": 592,
+  "valid_json": 592,
+  "eval_hours": 2.07,
+  "gen_calls": 64,
+  "gen_hours": 0.18,
+  "by": {
+   "phi4-mini|costar|text": [
+    120,
+    13.8
+   ],
+   "qwen3vl-4b|costar|text": [
+    120,
+    14.9
+   ],
+   "qwen3vl-4b|costar|MM": [
+    40,
+    36.5
+   ],
+   "qwen3vl-4b|costar_nokey|MM": [
+    24,
+    36.7
+   ],
+   "qwen3vl-4b|pair|text": [
+    96,
+    3.5
+   ],
+   "qwen3vl-4b|plain|text": [
+    72,
+    2.9
+   ],
+   "qwen3vl-4b|plain|MM": [
+    24,
+    15.9
+   ],
+   "qwen3vl-4b|spec_holistic|text": [
+    72,
+    3.2
+   ],
+   "qwen3vl-4b|spec_holistic|MM": [
+    24,
+    20.3
+   ]
+  }
+ },
+ "phase2": {
+  "eval_calls": 1032,
+  "valid_json": 1032,
+  "eval_hours": 3.14,
+  "gen_calls": 48,
+  "gen_hours": 0.12,
+  "by": {
+   "phi4-mini|costar|text": [
+    48,
+    15.1
+   ],
+   "phi4-mini|plain|text": [
+    120,
+    2.4
+   ],
+   "phi4-mini|spec_holistic|text": [
+    120,
+    2.8
+   ],
+   "phi4-mini|star|text": [
+    48,
+    16.2
+   ],
+   "qwen3vl-4b|costar|text": [
+    264,
+    14.4
+   ],
+   "qwen3vl-4b|costar_nodiag|text": [
+    72,
+    13.8
+   ],
+   "qwen3vl-4b|costar_para|text": [
+    72,
+    17.7
+   ],
+   "qwen3vl-4b|costar_rerun|text": [
+    72,
+    14.4
+   ],
+   "qwen3vl-4b|costar_rev|text": [
+    72,
+    14.1
+   ],
+   "qwen3vl-4b|plain|text": [
+    48,
+    2.3
+   ],
+   "qwen3vl-4b|spec_holistic|text": [
+    48,
+    3.5
+   ],
+   "qwen3vl-4b|star|text": [
+    48,
+    16.8
+   ]
+  }
+ }
+}

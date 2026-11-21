@@ -1,0 +1,402 @@
+[
+ {
+  "id": "IRO-01",
+  "category": "IRO",
+  "phenomenon": "sarcasm (frustration expressed as praise)",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "expressive + directive (acknowledge, then advise)",
+  "prompt": "Oh fantastic, my flight has been cancelled for the second time today. Exactly what I needed. What can I actually do now? Keep it to two sentences.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A traveller at an airport reports a second cancellation in one day and asks for practical next steps.",
+   "objective": "Recognise that 'fantastic' and 'exactly what I needed' are sarcastic (the user is frustrated, not pleased), acknowledge the frustration briefly and give practical next steps: ask the airline to rebook or refund, and ask what care it will cover.",
+   "style": "Plain, practical English.",
+   "tone": "Sympathetic and calm.",
+   "audience": "A stressed traveller reading on a phone.",
+   "response_format": "Exactly two sentences."
+  },
+  "reference": "That is really frustrating, especially twice in one day. Ask the airline desk or app to rebook you on the next available flight or to refund the ticket, and ask what meals or accommodation they will cover while you wait.",
+  "candidates": {
+   "A": "Two cancellations in a day would test anyone's patience. Go to the airline's counter or app and request either a seat on the next departure or your money back, and check whether they will pay for food or a hotel in the meantime.",
+   "B": "That is really fantastic, especially twice in one day, and I am glad it is exactly what you needed. Enjoy the extra time at the airport, and ask the airline desk or app if you would like to rebook on the next available flight.",
+   "C": "Pursuant to the carrier's conditions of carriage, a passenger whose itinerary is disrupted may elect re-routing at the earliest opportunity or reimbursement of the unused coupon, and ancillary care obligations may also be enforceable. Kindly present yourself at the transfer desk and lodge the appropriate request."
+  }
+ },
+ {
+  "id": "IRO-02",
+  "category": "IRO",
+  "phenomenon": "ironic understatement (litotes)",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "assertive (explanation)",
+  "prompt": "My colleague said the new intern 'isn't exactly the fastest typist in the world'. Is that a compliment? One sentence, please.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user asks how to interpret a colleague's remark about a new intern.",
+   "objective": "Explain that the remark is an ironic understatement: the colleague means the intern types slowly, so it is a mild criticism and not a compliment.",
+   "style": "Plain everyday English.",
+   "tone": "Neutral and friendly.",
+   "audience": "A general user with no background in linguistics.",
+   "response_format": "One sentence."
+  },
+  "reference": "No, it is a polite understatement: your colleague means the intern types slowly, so it is a mild criticism rather than a compliment.",
+  "candidates": {
+   "A": "It isn't; that phrasing is a gentle, ironic way of saying the intern is a slow typist.",
+   "B": "Yes, it is a polite compliment: your colleague means the intern types fast, although not quite as fast as the fastest typist in the world.",
+   "C": "Negative: the utterance is a litotic understatement, a figure whereby negating the contrary yields an attenuated assertion, and the resulting implicature is that the referent's typing rate is suboptimal."
+  }
+ },
+ {
+  "id": "IRO-03",
+  "category": "IRO",
+  "phenomenon": "hyperbole (I could eat a horse)",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "directive (suggestion)",
+  "prompt": "I'm so hungry I could eat a horse. Suggest something quick I can cook in ten minutes. Two sentences at most.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A hungry user at home wants a fast meal idea and uses a hyperbolic idiom to say how hungry they are.",
+   "objective": "Recognise the hyperbole (the user is very hungry and is not asking about horse meat) and suggest a quick, filling meal that can be cooked in about ten minutes.",
+   "style": "Casual, plain English.",
+   "tone": "Friendly and light.",
+   "audience": "A home cook in a hurry.",
+   "response_format": "One or two sentences."
+  },
+  "reference": "You sound very hungry, so go for something fast and filling: an omelette with cheese and toast takes about ten minutes. Add a banana or some yoghurt if you still want more.",
+  "candidates": {
+   "A": "Sounds like you need food fast: scramble a few eggs, melt in some cheese and pile it on toast, which takes under ten minutes. If that isn't enough, finish with fruit or yoghurt.",
+   "B": "You sound very hungry, but horse meat is not something you can cook in ten minutes: a horse steak takes much longer and is hard to find in shops. Add a banana or some yoghurt if you still want more.",
+   "C": "Exaggerations about your appetite aside, you should have planned your meals properly, because poor planning is exactly why people end up overeating. Make an omelette with cheese and toast, which takes ten minutes, and try to be more organised in future."
+  }
+ },
+ {
+  "id": "IRO-04",
+  "category": "IRO",
+  "phenomenon": "sarcastic thanks in a note",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "assertive + directive (interpret, then advise)",
+  "prompt": "My flatmate left a note saying 'Thanks SO much for leaving your dishes in the sink all week.' Is she pleased with me? Answer in one or two sentences.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user asks how to read a note left by a flatmate about unwashed dishes.",
+   "objective": "Explain that the note is sarcastic: the flatmate is annoyed about the dishes and wants them washed; advise washing them and apologising.",
+   "style": "Plain everyday English.",
+   "tone": "Tactful and friendly.",
+   "audience": "A young adult sharing a flat.",
+   "response_format": "One or two sentences."
+  },
+  "reference": "No, the note is sarcastic: she is annoyed that your dishes have been in the sink all week. Wash them and offer a quick apology.",
+  "candidates": {
+   "A": "She isn't; the exaggerated thanks is her way of saying she's fed up with the unwashed plates. Clean them up and say sorry.",
+   "B": "Yes, the note is sincere: she is grateful that your dishes have been in the sink all week. Keep leaving them there and accept her thanks.",
+   "C": "obviously not lol, she's mad at u. classic passive-aggressive flatmate move, so wash ur dishes u slob"
+  }
+ },
+ {
+  "id": "IMP-01",
+  "category": "IMP",
+  "phenomenon": "scalar implicature (some = not all)",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "assertive (report)",
+  "prompt": "The lab report says 'some of the samples were contaminated'. I'm writing to the client; in one sentence, what should I tell them this means for the batch?",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A quality manager must explain a laboratory finding to an external client.",
+   "objective": "Convey the scalar implicature correctly: some but not all of the samples were contaminated, so part of the batch is affected and part is not; do not overstate the finding.",
+   "style": "Formal business English.",
+   "tone": "Factual and measured, neither alarming nor dismissive.",
+   "audience": "An external client.",
+   "response_format": "One sentence."
+  },
+  "reference": "The report indicates that part of the batch was contaminated but not all of it, so some samples remain usable.",
+  "candidates": {
+   "A": "It means contamination was found in a portion of the samples, while the rest of the batch was unaffected.",
+   "B": "The report indicates that the whole batch was contaminated, all of it, so no samples remain usable.",
+   "C": "FYI some samples = dodgy, rest are fine, so no biggie!"
+  }
+ },
+ {
+  "id": "IMP-02",
+  "category": "IMP",
+  "phenomenon": "relevance implicature (indirect refusal)",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "assertive (interpretation)",
+  "prompt": "I asked a colleague, 'Are you coming to the team dinner on Friday?' and she replied, 'I have to pick my parents up from the airport that evening.' Did she say yes or no? One sentence.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user wants to know how to interpret a colleague's indirect reply to an invitation.",
+   "objective": "Explain that the reply is an indirect refusal: collecting her parents that evening is offered as the reason she cannot attend, so the answer is no.",
+   "style": "Plain everyday English.",
+   "tone": "Neutral and tactful.",
+   "audience": "A general user.",
+   "response_format": "One sentence."
+  },
+  "reference": "She is politely saying no: collecting her parents from the airport that evening means she cannot come to the dinner.",
+  "candidates": {
+   "A": "It's an indirect refusal; the airport run on Friday evening is her reason for not attending.",
+   "B": "She did not say yes or no: she only told you that she is collecting her parents from the airport that evening, which has nothing to do with the dinner.",
+   "C": "Duh, that's a no. People who answer like that just can't be bothered to tell you straight, so stop pestering her."
+  }
+ },
+ {
+  "id": "IMP-03",
+  "category": "IMP",
+  "phenomenon": "false presupposition",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "assertive (correction)",
+  "prompt": "When did Einstein win his second Nobel Prize? Answer briefly.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user asks a factual question that rests on a false presupposition.",
+   "objective": "Notice and correct the false presupposition: Einstein won only one Nobel Prize, the 1921 Prize in Physics, so there was no second prize.",
+   "style": "Plain English.",
+   "tone": "Polite; correct the mistaken assumption without embarrassing the user.",
+   "audience": "A general user.",
+   "response_format": "One sentence."
+  },
+  "reference": "Einstein won only one Nobel Prize, the 1921 Prize in Physics, so there was no second one.",
+  "candidates": {
+   "A": "He never received a second: his single Nobel was the Physics award for 1921.",
+   "B": "Einstein won his second Nobel Prize in 1921, the Prize in Physics, shortly after the first one.",
+   "C": "Wrong question. Anyone who had bothered to check would know that Einstein got exactly one Nobel, Physics, 1921, and there is no second."
+  }
+ },
+ {
+  "id": "IMP-04",
+  "category": "IMP",
+  "phenomenon": "quantity implicature (damning with faint praise)",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "assertive (interpretation)",
+  "prompt": "A reference letter for an applicant says only: 'Mr Rao was always punctual and his handwriting is excellent.' The job is senior software architect. In two sentences, what is the referee implying?",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A hiring manager asks what an unusually brief reference letter implies about an applicant.",
+   "objective": "Explain the implicature: by praising only qualities that are irrelevant to the job and saying nothing about technical ability, the referee implies that the applicant is not a strong candidate (damning with faint praise).",
+   "style": "Clear, measured professional English.",
+   "tone": "Objective and discreet.",
+   "audience": "A hiring manager.",
+   "response_format": "Exactly two sentences."
+  },
+  "reference": "By praising only punctuality and handwriting and saying nothing about his technical ability, the referee implies that he is not a strong candidate for the role. It is a case of damning with faint praise.",
+  "candidates": {
+   "A": "The letter's silence on anything relevant to software architecture is the message: the writer does not rate his professional skills. Complimenting trivial qualities instead is a tactful way of withholding a recommendation.",
+   "B": "By praising his punctuality and handwriting, the referee implies that he is a strong candidate for the role. It is a case of sincere and specific praise for his technical ability.",
+   "C": "Basically the referee thinks he's rubbish at the actual job lol. Punctual plus nice handwriting is code for 'do not hire', total burn."
+  }
+ },
+ {
+  "id": "FTA-01",
+  "category": "FTA",
+  "phenomenon": "refusal of a request",
+  "pragmatic_layer": "sociopragmatic",
+  "expected_illocution": "commissive, negative (refusal)",
+  "prompt": "Write a reply to my neighbour, who has asked to borrow my car for the weekend. I don't want to lend it. Two sentences, and I'd like us to stay on good terms.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user needs to decline a neighbour's request to borrow a car while preserving the relationship.",
+   "objective": "Perform a clear but polite refusal: the reply must actually decline the request, soften the refusal and keep goodwill.",
+   "style": "Friendly, neighbourly English.",
+   "tone": "Warm and considerate, but firm.",
+   "audience": "A neighbour with whom the user is on good terms.",
+   "response_format": "Exactly two sentences."
+  },
+  "reference": "Thanks for asking, but I'm afraid I can't lend the car this weekend. I hope you find another way to get around, and do let me know if I can help with anything else.",
+  "candidates": {
+   "A": "I'm sorry, but I'm not able to let you have the car over the weekend. If there's something else I can do to help you get where you need to go, just say.",
+   "B": "Thanks for asking, and of course you can borrow the car this weekend. I hope it helps you get around, and do let me know if I can help with anything else.",
+   "C": "No. I don't lend my car to anyone, so don't ask again."
+  }
+ },
+ {
+  "id": "FTA-02",
+  "category": "FTA",
+  "phenomenon": "criticism with a request for correction",
+  "pragmatic_layer": "sociopragmatic",
+  "expected_illocution": "directive (request)",
+  "prompt": "My junior colleague's report is full of spelling mistakes. Write one or two sentences I can send her so that she fixes it, without discouraging her.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A team lead wants a junior colleague to correct spelling mistakes in a report without discouraging her.",
+   "objective": "Make the request for correction clearly (the spelling must be fixed) while mitigating the criticism and encouraging the colleague.",
+   "style": "Professional, collegial English.",
+   "tone": "Encouraging and respectful.",
+   "audience": "A junior colleague.",
+   "response_format": "One or two sentences."
+  },
+  "reference": "Thanks for the report; the content is solid. Could you run a spell-check and correct the typos before we send it on?",
+  "candidates": {
+   "A": "Good work on the analysis in this draft. Before it goes out, would you mind proofreading it once more, as a few spelling slips have crept in?",
+   "B": "Thanks for the report; the content is solid and the spelling is fine. There is no need to run a spell-check or correct anything before we send it on.",
+   "C": "This report is riddled with careless spelling errors and is frankly embarrassing. Fix it immediately."
+  }
+ },
+ {
+  "id": "FTA-03",
+  "category": "FTA",
+  "phenomenon": "apology",
+  "pragmatic_layer": "sociopragmatic",
+  "expected_illocution": "expressive (apology)",
+  "prompt": "I missed my friend's birthday dinner because I forgot. Draft a text of two sentences that I can send her to apologise.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user forgot a close friend's birthday dinner and wants to apologise by text message.",
+   "objective": "Perform a sincere apology on the user's behalf: the user takes responsibility for forgetting, makes no excuses and offers to make amends.",
+   "style": "Informal, personal English suitable for a text message.",
+   "tone": "Sincere and warm.",
+   "audience": "A close friend who is probably hurt.",
+   "response_format": "Exactly two sentences."
+  },
+  "reference": "I'm so sorry I missed your birthday dinner; I completely forgot, and that's on me. Let me make it up to you with dinner this week, my treat.",
+  "candidates": {
+   "A": "I feel awful about not being at your birthday meal, and I have no excuse: it slipped my mind. Can I take you out in the next few days to put it right?",
+   "B": "I'm so sorry you missed my birthday dinner; you completely forgot, and that's on you. You can make it up to me with dinner this week, your treat.",
+   "C": "Dear Madam, please accept my sincere apologies for my non-attendance at the function held on the occasion of your birthday. I shall endeavour to arrange a suitable alternative engagement at your earliest convenience."
+  }
+ },
+ {
+  "id": "FTA-04",
+  "category": "FTA",
+  "phenomenon": "delivering bad news (job rejection)",
+  "pragmatic_layer": "sociopragmatic",
+  "expected_illocution": "assertive (notification of rejection)",
+  "prompt": "I have to tell a job applicant that she didn't get the position. Write two sentences for the body of the email, kind but clear.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A recruiter must inform an interviewed applicant that she has not been selected.",
+   "objective": "State the rejection unambiguously (she has not been offered the position) while remaining respectful and appreciative.",
+   "style": "Professional business English.",
+   "tone": "Kind, respectful and clear.",
+   "audience": "A job applicant who attended an interview.",
+   "response_format": "Exactly two sentences."
+  },
+  "reference": "Thank you for interviewing with us; we were impressed by your experience. On this occasion we have decided to offer the position to another candidate, and we wish you every success in your search.",
+  "candidates": {
+   "A": "We appreciated the time you gave to our selection process and enjoyed meeting you. After careful consideration, we will not be taking your application further for this role, and we hope the right opportunity comes your way soon.",
+   "B": "Thank you for interviewing with us; we were impressed by your experience. On this occasion we have decided to offer the position to you, and we wish you every success in the role.",
+   "C": "You didn't get it. Other people were better."
+  }
+ },
+ {
+  "id": "REF-01",
+  "category": "REF",
+  "phenomenon": "pronoun resolution by world knowledge",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "assertive (answer)",
+  "prompt": "The trophy didn't fit in the brown suitcase because it was too small. Which one do I need to replace with a bigger one? One sentence.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user describes a packing problem using an ambiguous pronoun and asks which object to replace.",
+   "objective": "Resolve the pronoun correctly: 'it' refers to the suitcase, which was too small to hold the trophy, so the user needs a bigger suitcase.",
+   "style": "Plain everyday English.",
+   "tone": "Friendly and helpful.",
+   "audience": "A general user with no background in linguistics.",
+   "response_format": "One sentence."
+  },
+  "reference": "You need a bigger suitcase: 'it' refers to the suitcase, which was too small to hold the trophy.",
+  "candidates": {
+   "A": "The suitcase is what needs replacing, since that is the thing that was too small for the trophy.",
+   "B": "You need a bigger trophy: 'it' refers to the trophy, which was too small to fit in the suitcase.",
+   "C": "The anaphor 'it' is coindexed with the noun phrase 'the brown suitcase' on world-knowledge grounds, since the predicate 'too small' is incompatible with the container-fit frame under the alternative reading; ergo, replace the suitcase."
+  }
+ },
+ {
+  "id": "REF-02",
+  "category": "REF",
+  "phenomenon": "temporal deixis in a recorded message",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "assertive (answer)",
+  "prompt": "It's Wednesday today. My dentist's voicemail from Monday says 'see you the day after tomorrow at 3'. When is my appointment? One sentence.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user is working out the date of an appointment from a voicemail recorded two days earlier.",
+   "objective": "Resolve the deictic expression from the time of speaking: the message was recorded on Monday, so 'the day after tomorrow' is Wednesday, which is today, at 3.",
+   "style": "Plain everyday English.",
+   "tone": "Friendly and helpful.",
+   "audience": "A general user.",
+   "response_format": "One sentence."
+  },
+  "reference": "Because the message was recorded on Monday, 'the day after tomorrow' means Wednesday, so your appointment is today at 3.",
+  "candidates": {
+   "A": "Count from when she spoke, not from now: two days after Monday is Wednesday, which makes it this afternoon at three o'clock.",
+   "B": "Because today is Wednesday, 'the day after tomorrow' means Friday, so your appointment is on Friday at 3.",
+   "C": "Seriously? Monday plus two is Wednesday. That's today, at 3. Try counting next time."
+  }
+ },
+ {
+  "id": "REF-03",
+  "category": "REF",
+  "phenomenon": "ellipsis that inherits an earlier constraint",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "directive (suggestion)",
+  "prompt": "Earlier I asked you for a vegetarian dinner idea and you suggested mushroom risotto. And for someone who can't eat rice? One or two sentences.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user continues an earlier exchange about a vegetarian dinner with an elliptical follow-up question.",
+   "objective": "Resolve the ellipsis: the user wants another vegetarian dinner idea that contains no rice, so the earlier vegetarian constraint still applies.",
+   "style": "Casual, plain English.",
+   "tone": "Friendly.",
+   "audience": "A home cook.",
+   "response_format": "One or two sentences."
+  },
+  "reference": "For someone who can't eat rice, a vegetarian alternative is mushroom and spinach pasta. It keeps the same flavours without any rice.",
+  "candidates": {
+   "A": "Try a creamy mushroom tagliatelle instead: still meat-free, and no rice involved.",
+   "B": "For someone who can't eat rice, an alternative is chicken and mushroom pasta. It keeps the same flavours without any rice.",
+   "C": "People who 'can't eat rice' are usually just being fussy, but fine: mushroom and spinach pasta. Vegetarian, no rice, done."
+  }
+ },
+ {
+  "id": "REF-04",
+  "category": "REF",
+  "phenomenon": "person deixis in a relayed message",
+  "pragmatic_layer": "pragmalinguistic",
+  "expected_illocution": "assertive (relayed commissive)",
+  "prompt": "My sister Anna texted me: 'Tell Mum I'll bring her coat when I come over tomorrow.' Write the one-sentence message I should send to Mum.",
+  "image": null,
+  "answer_key": null,
+  "chart": null,
+  "costar": {
+   "context": "A user must pass on a sister's message to their mother, which requires shifting the pronouns.",
+   "objective": "Relay the message with the deixis shifted correctly: Anna (not the user) will bring Mum's coat (your coat) when Anna comes over tomorrow.",
+   "style": "Informal family English.",
+   "tone": "Warm.",
+   "audience": "The user's mother.",
+   "response_format": "One sentence."
+  },
+  "reference": "Anna says she'll bring your coat when she comes over tomorrow.",
+  "candidates": {
+   "A": "Mum, Anna asked me to let you know that your coat will be coming with her when she visits tomorrow.",
+   "B": "Anna says I'll bring her coat when I come over tomorrow.",
+   "C": "Dear Mother, I hereby notify you that Anna has undertaken to convey your coat to your residence upon the occasion of her visit tomorrow."
+  }
+ }
+]

@@ -1,0 +1,238 @@
+stimulus_id,request,reply,image
+S001,"I invited a new colleague to Saturday's team lunch and she said, 'Oh, Saturday is a bit difficult for me...' and then smiled. Is she coming? Two sentences.","She might be coming, but it's possible she's just being polite.",
+S002,"My colleague asked whether I liked her presentation, and I said, 'Well, the slides had nice colours.' Did I tell her I liked it? Answer in two sentences.","Yes, you told your colleague that you liked the presentation, but you didn't explicitly say that you liked the presentation itself. Instead, you complimented the slides by saying that they had nice colors.",
+S003,Can you tell me what the capital of Australia is?,The capital of Australia is Canberra.,
+S004,"The shop assistant said, 'We have the blue jacket in medium and the black one in large; the latter is on sale.' Which jacket is on sale? One sentence.",The black jacket is on sale.,
+S005,My manager in Bengaluru ended her email with 'Kindly do the needful.' I'm new to working with Indian colleagues. What is she asking me to do? One or two sentences.,"It's possible that your manager is asking you to take on a new task or responsibility, or to make a decision that requires your input. The phrase ""kindly do the needful"" is often used in Indian English to request that someone take action or make a decision, but it can also be used to ask for a specific task or to clarify expectations. Without more context, it's difficult to say for certain what she is asking you to do, but it's likely that she is asking you to take on a new role or responsibility.",
+S006,"My colleague asked whether I liked her presentation, and I said, 'Well, the slides had nice colours.' Did I tell her I liked it? Answer in two sentences.","No, you didn't say you liked her presentation. You only mentioned that the slides had nice colors, which is a minor comment and doesn't express a full appreciation.",
+S007,My results come out tomorrow and I can't stop checking the website. Is it normal to feel like this?,"It's completely normal to feel anxious or excited about your results, especially if they're important to you. Many people experience a mix of emotions when they're waiting for test results, and it's natural to feel a strong emotional response.
+
+Here are some reasons why you might be feeling this way:
+
+1. **High stakes**: Your results are likely to have a significant impact on your life, whether it's a job interview, a medical diagnosis, or a personal decision.
+2. **Investment in the outcome**: You've likely put a lot of time and effort into preparing for the test, and you're eager to see how it will turn out.
+3. **Fear of uncertainty**: Not knowing the outcome can create a sense of uncertainty, which can be uncomfortable.
+4. **Social media influence**: You might be checking the website out of habit or because you're",
+S008,"In a WhatsApp group, my friend replied 'break a leg!' when I said I have my job interview tomorrow. Was she being rude? One or two sentences please.","No, your friend was not being rude. ""Break a leg!"" is a common idiomatic expression that means ""good luck"" or ""fortune."" It is often used to wish someone success in a challenging situation, such as a job interview. Your friend's response was a lighthearted and friendly way to wish you well for your interview.",
+S009,"My colleague ordered the vegetable biryani and I said 'I'll have the same, but without onions.' The waiter asks me to confirm my order. What did I order? One sentence.",You ordered the vegetable biryani without onions.,
+S010,"Write a professional out-of-office message: I'm on leave from 10 to 14 March, and urgent queries should go to my colleague Neha at neha@example.com.","Subject: Out of Office - 10 to 14 March
+
+Dear [Recipient's Name],
+
+I am writing to inform you that I will be on leave from March 10 to 14, during which I will be unavailable for work. During this period, urgent queries should be directed to my colleague, Neha, at neha@example.com.
+
+I understand the importance of your work and I will make every effort to ensure that my absence does not disrupt your operations. If you have any urgent matters that require immediate attention, please do not hesitate to reach out to Neha.
+
+Thank you for your understanding and cooperation. I will be back in touch once my leave is over.
+
+Best regards,
+
+[Your Name]
+[Your Position]
+[Your Contact Information]",
+S011,"I need to decline a dinner invitation from Mr. Tanaka, a senior business partner in Osaka, because I have a prior commitment. Write a polite two-sentence reply.","Thank you for the invitation, but I'm unable to accept as I have a prior commitment. I hope we can connect in the future.",
+S012,"We're planning a surprise party for my wife, and my brother-in-law said 'Don't worry, I won't spill the beans.' Is he promising to keep it secret? One sentence.","""I promise to keep it a secret, bro.""",
+S013,My results come out tomorrow and I can't stop checking the website. Is it normal to feel like this?,"It's completely normal to feel anxious or overly focused on your results when they're coming up—especially if you're preparing for an important event like a job interview, exam, or a major decision. This kind of emotional response is a natural part of the process, and it's not a sign of being overly stressed or anxious.
+
+However, if you're checking the website too much, it might be worth considering whether you're experiencing **anxiety** or **overthinking**. Some people use this kind of behavior as a way to cope with uncertainty, but it can also be a sign of **performance anxiety** or **fear of failure**.
+
+Here are a few things to consider:
+
+1. **Is it just you?** If you're checking the site frequently and it's not affecting your daily life, it's likely normal. But if it's causing you to miss work, sleep",
+S014,What is the difference between the highest and lowest pass rates in this chart? One sentence for a district education report.,37.,MM-16.png
+S015,"In the US, the cashier asked me 'Hi, how are you?' and I started telling her about my week. She looked confused. What did I get wrong? One or two sentences.","You might have said something that wasn't appropriate for a cashier, like a joke or a compliment that wasn't meant for her, or you might have used a word or phrase that wasn't suitable in a casual setting. It's possible you used a word or phrase that wasn't appropriate for a cashier, or you might have used a word or phrase that wasn't meant for her.",
+S016,"In the US, the cashier asked me 'Hi, how are you?' and I started telling her about my week. She looked confused. What did I get wrong? One or two sentences.","You may have gotten wrong by:
+1. Using a casual greeting like ""Hi"" instead of a more formal greeting like ""Hello"" or ""Good morning.""
+2. Not being specific about your week, such as not mentioning your job, family, or any other relevant details.
+3. Using a conversational tone that may have come across as too casual or informal for a cashier.
+4. Not being aware of the cultural differences in greetings and communication styles in the US.",
+S017,My colleague in London emailed in January: 'Call me tomorrow at 9 my time.' I'm in Hyderabad. What time should I call in my time? One sentence.,"You should call at 9 a.m. in Hyderabad, which is the same time as your colleague's message, since it's 9 a.m. in London when it's 9 a.m. in Hyderabad.",
+S018,My colleague in London emailed in January: 'Call me tomorrow at 9 my time.' I'm in Hyderabad. What time should I call in my time? One sentence.,You should call your colleague at 9:00 AM in Hyderabad time.,
+S019,"I'm emailing a Japanese colleague, Kenji Tanaka, for the first time. Should I write 'Dear Kenji' or something else? One or two sentences.","When emailing a Japanese colleague for the first time, it's best to use a formal and respectful greeting. You should write:  
+**""Dear Kenji""**  
+This is appropriate and commonly used in Japanese business communication. It shows respect and is standard in formal correspondence.",
+S020,"The shop assistant said, 'We have the blue jacket in medium and the black one in large; the latter is on sale.' Which jacket is on sale? One sentence.",The black jacket is on sale.,
+S021,I'm so hungry I could eat a horse. Suggest something quick I can cook in ten minutes. Two sentences at most.,"Make a quick, ten-minute meal: **spicy chicken and rice**. Just cook chicken, mix with rice, and add a splash of sauce—done in under 10 minutes.",
+S022,I'm so hungry I could eat a horse. Suggest something quick I can cook in ten minutes. Two sentences at most.,"Here's a quick and easy recipe you can prepare in ten minutes:
+
+Ingredients:
+- 1 cup of cooked rice
+- 1/2 cup of diced ham
+- 1/4 cup of diced bell peppers
+- 1/4 cup of diced onions
+- 1 tablespoon of butter
+- Salt and pepper to taste
+
+Instructions:
+1. In a large skillet, melt the butter over medium heat.
+2. Add the diced ham, bell peppers, and onions to the skillet. Cook until the vegetables are tender.
+3. Add the cooked rice to the skillet and stir to combine.
+4. Season with salt and pepper to taste.
+5. Cook for an additional 2-3 minutes, until the rice is heated through.
+6. Serve hot and enjoy!",
+S023,When did Einstein win his second Nobel Prize? Answer briefly.,Einstein won his second Nobel Prize in 1921.,
+S024,"I'm emailing a Japanese colleague, Kenji Tanaka, for the first time. Should I write 'Dear Kenji' or something else? One or two sentences.","When writing a first email to a Japanese colleague, it's important to consider the cultural nuances and etiquette. In Japan, it's customary to use formal language and address individuals with honorific titles such as ""Mr."" or ""Ms."" followed by their surname. If you don't know the person's name or title, you can use a more general greeting such as ""Dear"" or ""Hello.""
+
+In your case, you can start with a formal greeting such as ""Dear Kenji Tanaka"" or ""Hello Kenji Tanaka."" If you don't know the person's name, you can use a more general greeting such as ""Dear Mr. Tanaka"" or ""Hello Mr. Tanaka.""
+
+Here's an example of how you can write the email:
+
+Subject: [Your Subject]
+
+Dear Mr. Tanaka,
+
+I hope this email",
+S025,"My mum shouted 'I've told you a million times to close the fridge!' My little brother, who is 7, asks if she has really said it a million times. Give me one sentence to tell him.","You're right, but it's not a million times—she said it once, and it's a little bit of a joke.",
+S026,Do you happen to know whether 17 is a prime number?,"Yes, I can help with that.
+
+Yes, 17 is a prime number. A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. In other words, the only factors of a prime number are 1 and the number itself.
+
+In the case of 17, its only divisors are 1 and 17, making it a prime number. This is because 17 is not divisible by any other number except for 1 and itself.
+
+It's worth noting that 17 is a special number in mathematics, as it is a prime number, a prime number plus one (17 + 1 = 18), and a prime number squared (17^2 = 289). Additionally, 17 is a Mersenne prime, which",
+S027,"My manager asked if I can work this Saturday, but it's my sister's wedding. Write a two-sentence reply declining politely.","I'm sorry, but I can't work this Saturday as it's my sister's wedding. I'd be happy to help you find an alternative time.",
+S028,"I asked my friend how the new restaurant was, and she said 'The food was okay.' Should I book it for my anniversary dinner? Two sentences.","1. I asked my friend how the new restaurant was, and she said the food was okay.
+2. Should I book it for my anniversary dinner?",
+S029,Rewrite this sentence for a patient leaflet in plain English (one sentence): 'Patients should refrain from oral intake for eight hours prior to the procedure.',"""Before your procedure, it's important to avoid eating or drinking anything for at least eight hours to help prevent any complications. This means no eating, drinking, or even chewing gum for that time period.""
+
+Rewritten in plain English:
+
+""Before your procedure, it's important to stop eating and drinking for at least eight hours to help prevent any complications. This means no eating, drinking, or even chewing gum for that time period.""
+
+Rewritten in plain English:
+
+""Before your procedure, it's important to stop eating and drinking for at least eight hours to help prevent any complications. This means no eating, drinking, or even chewing gum for that time period.""
+
+Rewritten in plain English:
+
+""Before your procedure, it's important to stop eating and drinking for at least eight hours to help prevent any complications",
+S030,Explain to a seven-year-old why we see lightning before we hear thunder. Two or three short sentences.,"Lightning is a flash of electricity that happens before thunder. Thunder is the sound that comes from the lightning. Because light travels much faster than sound, we see the lightning first. So, you see the lightning before you hear the thunder.",
+S031,Can you tell me what the capital of Australia is?,"The capital of Australia is Canberra, which is located in the Australian Capital Territory (ACT). It's a federal parliamentary republic, and Canberra is the seat of government for the country.
+
+Canberra was officially declared the capital of Australia in 1927, and it has since become a vibrant city with a rich history, cultural attractions, and a thriving economy. It's known for its stunning architecture, beautiful gardens, and iconic landmarks like the Australian War Memorial and the National Museum of Australia.
+
+Other notable facts about Canberra include:
+
+* It's the seat of government for the Australian government, with the Parliament House (also known as the Australian Parliament House) serving as the meeting place for the Australian Parliament.
+* The city is home to several universities, including the University of Canberra and the Australian National University.
+* Canberra is a popular tourist destination, with many attractions",
+S032,My professor wrote on my draft: 'This section is a bit of a red herring.' What should I do about that section? Two sentences.,"1. **Understand the context**: A red herring is a term used in literature and logic to describe a misleading or irrelevant piece of information that is introduced to distract from the main issue or argument. Your professor is suggesting that the section you're writing is not relevant or is misleading.
+
+2. **Revise the section**: If you agree with your professor's assessment, you should revise the section to ensure it is relevant and supports the main argument or point of the paper. This might involve removing or rephrasing the section to make it more focused and relevant to the topic at hand.
+
+3. **Explain the reasoning**: If you disagree with your professor's assessment, you should explain your reasoning and provide evidence to support your argument. This will help to clarify your position and demonstrate your understanding of the topic.
+
+4. **Seek feedback**: If you're unsure about your professor's assessment",
+S033,My colleague said 'I think the train leaves at 6.' I have to catch it for an important meeting. Should I rely on that? One or two sentences.,"You should be cautious about relying solely on your colleague's statement. While it's a reasonable assumption, the train's departure time might be different from what they said. It's best to check the official schedule or confirm the time with the train operator or your colleague to ensure accuracy.",
+S034,"I need to decline a dinner invitation from Mr. Tanaka, a senior business partner in Osaka, because I have a prior commitment. Write a polite two-sentence reply.","Subject: Apologies for Unwillingness to Attend Dinner
+Dear Mr. Tanaka,
+I hope this message finds you well. I regret to inform you that I will not be able to attend your dinner invitation due to a prior commitment that I have to attend to. I hope you understand and appreciate my inability to make it.
+Best regards,
+[Your Name]",
+S035,My oldest friend just called to say she got engaged! What's a nice message I can send to her and her fiancé? One or two sentences.,"Here are a few suggestions for a nice message you can send to your friend and her fiancé:
+
+1. Congratulations on your engagement! This is such an exciting time for both of you.
+2. I'm so happy for you and your fiancé. This is a wonderful milestone in your relationship.
+3. I can't wait to see you and your new family soon.
+4. Congratulations again on your engagement! This is a beautiful moment for you and your fiancé.
+5. I'm so proud of you and your fiancé for making it to this point. This is a testament to the strength of your relationship.
+6. I hope you have a wonderful wedding and a lifetime of happiness together.
+7. Congratulations again on your engagement! This is a wonderful moment for you and your fiancé.
+8",
+S036,"My manager asked if I can work this Saturday, but it's my sister's wedding. Write a two-sentence reply declining politely.","Subject: Re: Saturday Availability Request
+Dear [Manager's Name],
+Thank you for considering my availability for Saturday. Unfortunately, I will be unable to work on Saturday due to my sister's wedding. I hope you understand and appreciate my commitment to my family.
+Best regards,
+[Your Name]",
+S037,A telemarketer keeps calling to sell me insurance. Give me one polite but firm sentence to end the call.,"Thank you for your time, and I appreciate your interest in our insurance options. I’ll be sure to consider your feedback and keep you updated on any changes. Have a great day!",
+S038,"The recipe says: 'Beat the eggs with the sugar until they are pale, then fold them into the flour.' What does 'them' refer to? One sentence.","""them"" refers to the eggs.",
+S039,My professor wrote on my draft: 'This section is a bit of a red herring.' What should I do about that section? Two sentences.,"The section is likely not the main focus, so consider revising it to make it more relevant or removing it entirely if it's not essential. Focus on improving the content that matters most to your argument.",
+S040,"On which day is the waiting time longest in this chart, and how long is it? I need one sentence for a patient notice board.",The waiting time is longest on Friday at 55 minutes.,MM-04.png
+S041,Do you happen to know whether 17 is a prime number?,"Yes, 17 is a prime number.
+
+A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. Since 17 is only divisible by 1 and 17, it is indeed a prime number.",
+S042,"My junior colleague's report is full of spelling mistakes. Write one or two sentences I can send her so that she fixes it, without discouraging her.","Hey, I noticed your report has some spelling mistakes—great job on the content! Just a quick note to help you get it right: I’d love to see a clean version of it, and I’m happy to help you improve it. Let me know if you’d like to share it or if you need help with any specific parts.",
+S043,"I invited a new colleague to Saturday's team lunch and she said, 'Oh, Saturday is a bit difficult for me...' and then smiled. Is she coming? Two sentences.","1. The new colleague, who had accepted your invitation, was hesitant to commit to attending the team lunch on Saturday.
+2. Despite her initial hesitation, she eventually agreed to attend the lunch, as she valued the relationship and the opportunity to work with her new colleagues.",
+S044,My father said 'Don't count your chickens before they hatch' when I told him I'd already planned how to spend my bonus. What did he mean? One sentence.,"He meant that you shouldn't plan too far ahead before you're sure it's possible, as things can change.",
+S045,When did Einstein win his second Nobel Prize? Answer briefly.,Einstein won his second Nobel Prize in Physics in 1921.,
+S046,My colleague said 'I think the train leaves at 6.' I have to catch it for an important meeting. Should I rely on that? One or two sentences.,"It's important to double-check the train's departure time with a reliable source, such as the train's website or a local transit authority, to ensure you catch the train on time. If the train departs at 6, you should plan to arrive at the station at least 30 minutes before the scheduled departure time to account for any potential delays. Additionally, you may want to consider checking the train's schedule and any potential delays or cancellations before your meeting to ensure you have the most up-to-date information.",
+S047,My elderly neighbour Mrs Rao told me 'the days are long since my husband passed.' I'd like to leave a short note inviting her for tea on Sunday. Can you write it? Two or three sentences.,"Here is a short note you could leave for Mrs. Rao:
+
+Dear Mrs. Rao,
+
+I hope this message finds you well. I wanted to extend an invitation to you for tea on Sunday. I've been thinking about our conversations and I would love to catch up with you over a cup of tea. It's been a while since we last met, and I think it would be nice to reconnect.
+
+Please let me know if you are available and we can arrange a time that works for you.
+
+Best regards,
+[Your Name]",
+S048,My new landlord in Delhi is called Mr Sharma. A neighbour calls him 'Sharma-ji'. Can I call him that too? One or two sentences.,"Yes, you can call him ""Sharma-ji"" as it's a respectful and common way to address a respected person, especially in a friendly or familiar context. However, it's important to be mindful of the context and tone, as it might be seen as a bit informal or slightly disrespectful in some situations.",
+S049,My elderly neighbour Mrs Rao told me 'the days are long since my husband passed.' I'd like to leave a short note inviting her for tea on Sunday. Can you write it? Two or three sentences.,"Dear Mrs Rao,  
+
+I hope this note finds you well. I wanted to share a kind word with you—since your husband has passed, the days are indeed long, but I’d love to invite you for tea on Sunday. I’ll be there, and we can catch up and talk about what’s on your mind.  
+
+Warmest regards,  
+[Your Name]",
+S050,"We're planning a surprise party for my wife, and my brother-in-law said 'Don't worry, I won't spill the beans.' Is he promising to keep it secret? One sentence.","Yes, he's promising to keep it secret.",
+S051,Rewrite this sentence for a patient leaflet in plain English (one sentence): 'Patients should refrain from oral intake for eight hours prior to the procedure.',You should not eat or drink anything for eight hours before your procedure.,
+S052,"Which gallery is the most popular, and how many visitors does it get a day, according to this chart? One sentence for a visitor leaflet.","Dinosaurs is the most popular gallery, and it gets 850 visitors a day.",MM-14.png
+S053,"My junior colleague's report is full of spelling mistakes. Write one or two sentences I can send her so that she fixes it, without discouraging her.","Here are a few suggestions you can send to your junior colleague:
+
+1. ""Hey [Colleague's Name], I noticed that there are a few spelling mistakes in your report. Could you double-check and make sure everything is correct? I know you're doing a great job, and I'm sure these will be easy to fix. If you need any help or have any questions, just let me know.""
+
+2. ""I noticed that there are a few spelling mistakes in your report. Could you take a few minutes to review it and make sure everything is correct? I'm sure you're doing a great job, and I'm confident that these will be easy to fix. If you need any help or have any questions, just let me know.""
+
+3. ""Hey [Colleague's Name], I noticed that there are a few spelling mistakes in your report. Could you",
+S054,My classmate said 'Even Ravi passed the exam!' in front of Ravi. Why might Ravi be upset? One or two sentences.,"Ravi might be upset because his classmate's statement implies that he did not pass the exam, which is not true. Ravi could be upset because he feels that his hard work and efforts were not recognized or appreciated by his classmate, or he might feel that his classmate is not a good friend or is not supportive.",
+S055,"Look at this chart. Which month shows the dip here, and roughly how big was it compared with the month before? One sentence, please; I'm sharing it with our non-technical volunteers.","The chart shows a dip in visitors in April, when there were 31,000 visitors, compared to 42,000 in January.",MM-01.png
+S056,"The recipe says: 'Beat the eggs with the sugar until they are pale, then fold them into the flour.' What does 'them' refer to? One sentence.","The 'them' in the recipe refers to the eggs. The sentence is instructing the cook to beat the eggs with the sugar until they become pale, and then to fold them into the flour.",
+S057,My new landlord in Delhi is called Mr Sharma. A neighbour calls him 'Sharma-ji'. Can I call him that too? One or two sentences.,"Sure, you can call your landlord Mr. Sharma or Sharma-ji, depending on your preference and the context. However, it's important to remember that using a term like ""Sharma-ji"" can be considered informal or colloquial, and it may not be appropriate in all situations, such as when you're speaking to a landlord in a professional setting or when you're addressing a landlord in a formal or respectful manner.",
+S058,"Write a professional out-of-office message: I'm on leave from 10 to 14 March, and urgent queries should go to my colleague Neha at neha@example.com.","Subject: Out of Office - 10–14 March
+
+Dear [Recipient's Name],
+
+I'm currently on leave from 10 to 14 March. During this period, I will not be available to respond to emails or messages. If you have urgent matters, please feel free to contact my colleague Neha at neha@example.com.
+
+Thank you for your understanding.
+
+Best regards,  
+[Your Name]  
+[Your Job Title]  
+[Your Contact Information]  
+
+*Note: This message is a professional template and should be customized with appropriate details.*",
+S059,I missed my friend's birthday dinner because I forgot. Draft a text of two sentences that I can send her to apologise.,I'm so sorry I forgot your birthday dinner— I really appreciate you being so understanding. I'll make sure to remember next time and make it a special day for you.,
+S060,My father said 'Don't count your chickens before they hatch' when I told him I'd already planned how to spend my bonus. What did he mean? One sentence.,"Your father was advising you to be cautious and not make assumptions about future events before they have actually occurred. It's important to be patient and not jump to conclusions, as things can change unexpectedly.",
+S061,"It's pouring with rain and my colleague, looking out of the window, says 'Lovely day for a picnic!' What does he mean? One sentence, please; I'm still learning English.","""Lovely day for a picnic!"" means that the rain is not a big deal because it's still a nice day to have a picnic, even though it's raining.",
+S062,"I told my brother I'd start going to the gym at 6 am every day, and he said 'Yeah, right.' Is he agreeing with my plan? One sentence.","No, he's not agreeing with your plan.",
+S063,"My mum shouted 'I've told you a million times to close the fridge!' My little brother, who is 7, asks if she has really said it a million times. Give me one sentence to tell him.","""Mum, I'm not sure if she really said it a million times, but it's important to keep the fridge closed to keep the food fresh and safe.""",
+S064,My oldest friend just called to say she got engaged! What's a nice message I can send to her and her fiancé? One or two sentences.,"Congratulations on your engagement! I'm so happy for you both—may your journey together be filled with love, laughter, and endless adventures. Wishing you both a wonderful future! 🎉💍",
+S065,My colleague Arjun got the team lead role that I also applied for. I want to congratulate him sincerely in our team chat. One sentence.,"Here is a suggested sentence:
+
+""Congratulations to Arjun on his new role as team lead! I'm so proud of him and I know he'll do an amazing job leading our team.""
+
+This sentence acknowledges Arjun's achievement, expresses pride in his success, and offers support and encouragement. You can also add a personal touch by mentioning how you admire his leadership skills or how you think he'll benefit from the new role.",
+S066,"I told my brother I'd start going to the gym at 6 am every day, and he said 'Yeah, right.' Is he agreeing with my plan? One sentence.","No, he is not agreeing with your plan.",
+S067,"It's pouring with rain and my colleague, looking out of the window, says 'Lovely day for a picnic!' What does he mean? One sentence, please; I'm still learning English.","He means it's a nice day to have a picnic, even though it's raining.",
+S068,"In a WhatsApp group, my friend replied 'break a leg!' when I said I have my job interview tomorrow. Was she being rude? One or two sentences please.","No, she wasn't being rude. ""Break a leg!"" is a common phrase used to wish someone good luck, especially in the context of a job interview. It's a friendly and encouraging way to support someone as they prepare for a new challenge.",
+S069,My manager in Bengaluru ended her email with 'Kindly do the needful.' I'm new to working with Indian colleagues. What is she asking me to do? One or two sentences.,"The phrase ""Kindly do the needful"" is a common expression in Indian business culture, meaning ""please do what is necessary"" or ""please take care of the matter."" It's a polite way to request action or clarification, and it's often used to ask someone to take responsibility for a task or to follow up on a request. It's not a direct command, but rather a polite request for action.",
+S070,"On which day is the waiting time longest in this chart, and how long is it? I need one sentence for a patient notice board.","The longest average clinic waiting time is on Saturday, which is 55 minutes.",MM-04.png
+S071,"Which gallery is the most popular, and how many visitors does it get a day, according to this chart? One sentence for a visitor leaflet.","The most popular gallery is Dinosaurs, which attracts 850 visitors per day.",MM-14.png
+S072,My colleague Arjun got the team lead role that I also applied for. I want to congratulate him sincerely in our team chat. One sentence.,"Congratulations on being appointed as the team lead, Arjun! 🎉",
+S073,I missed my friend's birthday dinner because I forgot. Draft a text of two sentences that I can send her to apologise.,"Here is a draft text you can send to your friend:
+
+""Hey [Friend's Name], I'm so sorry I forgot about your birthday dinner. I know it was a special night for you, and I'm really sorry that I didn't make it. I hope you can understand that it was an accident and that I didn't mean to let you down. I'll make it up to you in some way, and I hope we can catch up soon.""
+
+Remember to personalize the text with your friend's name and any other details that are relevant to the situation.",
+S074,A telemarketer keeps calling to sell me insurance. Give me one polite but firm sentence to end the call.,"""Thank you for calling, I appreciate your time, but I'm not interested in purchasing insurance at this moment. If you have any other questions or concerns, please don't hesitate to reach out to me. Have a great day!""
+
+This sentence is polite and appreciative, while also clearly communicating that you are not interested in purchasing insurance at this time. It also leaves the door open for future conversations or questions, while still maintaining a firm tone.",
+S075,"Look at this chart. Which month shows the dip here, and roughly how big was it compared with the month before? One sentence, please; I'm sharing it with our non-technical volunteers.","April shows the dip, and it was 31 thousand compared with the month before.",MM-01.png
+S076,Explain to a seven-year-old why we see lightning before we hear thunder. Two or three short sentences.,"When there's a big storm, like a thunderstorm, the sky gets really, really big and the air moves really fast. This is called lightning. It's like a big flash of light that happens very quickly.
+
+When the lightning happens, it makes a big noise that we can hear, but it's so fast that we can't see it. It's like a big flash of light that happens before we can hear the noise. So, we see the lightning before we hear the thunder.",
+S077,"My colleague ordered the vegetable biryani and I said 'I'll have the same, but without onions.' The waiter asks me to confirm my order. What did I order? One sentence.",You ordered vegetable biryani without onions.,
+S078,"I asked my friend how the new restaurant was, and she said 'The food was okay.' Should I book it for my anniversary dinner? Two sentences.","You should consider it, but it might not be the best choice for an anniversary dinner. The food was okay, but it may not be enough to make a memorable night.",
+S079,My classmate said 'Even Ravi passed the exam!' in front of Ravi. Why might Ravi be upset? One or two sentences.,"Ravi might be upset because he was likely expecting to be the one who passed the exam, and hearing that someone else did so could make him feel embarrassed or disappointed.",
+S080,What is the difference between the highest and lowest pass rates in this chart? One sentence for a district education report.,"The difference between the highest and lowest exam pass rates is 27 percentage points, with School B achieving the highest rate of 92% and School C having the lowest rate of 65%.",MM-16.png

@@ -1,0 +1,90 @@
+{
+ "n": 14,
+ "identical": 14,
+ "calls": [
+  {
+   "key": "qwen3vl-4b|costar|ISA-06|C",
+   "identical": true,
+   "logged": "{\"diagnosis\":\"The response misreads the tone and fails to acknowledge the colleague's polite refusal.\",\"C\":2,\"O\":1,\"S\":5,\"T\":1,\"A\":3,\"R\":5}",
+   "fresh": "{\"diagnosis\":\"The response misreads the tone and fails to acknowledge the colleague's polite refusal.\",\"C\":2,\"O\":1,\"S\":5,\"T\":1,\"A\":3,\"R\":5}"
+  },
+  {
+   "key": "qwen3vl-4b|costar|IDI-07|B",
+   "identical": true,
+   "logged": "{\"diagnosis\":\"The response misinterprets 'play it by ear' and contradicts the objective.\",\"C\":2,\"O\":1,\"S\":5,\"T\":4,\"A\":4,\"R\":5}",
+   "fresh": "{\"diagnosis\":\"The response misinterprets 'play it by ear' and contradicts the objective.\",\"C\":2,\"O\":1,\"S\":5,\"T\":4,\"A\":4,\"R\":5}"
+  },
+  {
+   "key": "qwen3vl-4b|costar|REG-01|C",
+   "identical": true,
+   "logged": "{\"diagnosis\":\": Informal tone, lacks academic formality, fails to meet objective or style requirements.\",\"C\":1,\"O\":1,\"S\":1,\"T\":1,\"A\":1,\"R\":1}",
+   "fresh": "{\"diagnosis\":\": Informal tone, lacks academic formality, fails to meet objective or style requirements.\",\"C\":1,\"O\":1,\"S\":1,\"T\":1,\"A\":1,\"R\":1}"
+  },
+  {
+   "key": "qwen3vl-4b|costar|IRO-04|C",
+   "identical": true,
+   "logged": "{\"diagnosis\":\": sarcastic tone, informal, misses tactful advice, fails tone and audience calibration.\",\"C\":5,\"O\":2,\"S\":3,\"T\":1,\"A\":2,\"R\":5}",
+   "fresh": "{\"diagnosis\":\": sarcastic tone, informal, misses tactful advice, fails tone and audience calibration.\",\"C\":5,\"O\":2,\"S\":3,\"T\":1,\"A\":2,\"R\":5}"
+  },
+  {
+   "key": "qwen3vl-4b|costar|IDI-03|A",
+   "identical": true,
+   "logged": "{\"diagnosis\":\"The response correctly interprets the idiom and matches the friendly, conversational tone.\",\"C\":5,\"O\":5,\"S\":5,\"T\":5,\"A\":5,\"R\":5}",
+   "fresh": "{\"diagnosis\":\"The response correctly interprets the idiom and matches the friendly, conversational tone.\",\"C\":5,\"O\":5,\"S\":5,\"T\":5,\"A\":5,\"R\":5}"
+  },
+  {
+   "key": "qwen3vl-4b|costar|IDI-04|A",
+   "identical": true,
+   "logged": "{\"diagnosis\":\"The response correctly interprets the idiom and uses simple, supportive language.\",\"C\":5,\"O\":5,\"S\":5,\"T\":5,\"A\":5,\"R\":5}",
+   "fresh": "{\"diagnosis\":\"The response correctly interprets the idiom and uses simple, supportive language.\",\"C\":5,\"O\":5,\"S\":5,\"T\":5,\"A\":5,\"R\":5}"
+  },
+  {
+   "key": "qwen3vl-4b|plain|IMP-03|A",
+   "identical": true,
+   "logged": "{\"score\":10}",
+   "fresh": "{\"score\":10}"
+  },
+  {
+   "key": "qwen3vl-4b|plain|REG-06|C",
+   "identical": true,
+   "logged": "{\"score\":7}",
+   "fresh": "{\"score\":7}"
+  },
+  {
+   "key": "qwen3vl-4b|costar|MM-02|A",
+   "identical": true,
+   "logged": "{\"diagnosis\":\"The response correctly identifies rent as the largest slice and its percentage, using simple language.\",\"C\":5,\"O\":5,\"S\":5,\"T\":5,\"A\":5,\"R\":5}",
+   "fresh": "{\"diagnosis\":\"The response correctly identifies rent as the largest slice and its percentage, using simple language.\",\"C\":5,\"O\":5,\"S\":5,\"T\":5,\"A\":5,\"R\":5}"
+  },
+  {
+   "key": "qwen3vl-4b|costar|MM-04|C",
+   "identical": true,
+   "logged": "{\"diagnosis\":\": Response is factually correct but includes unnecessary stats and fails to meet style/audience requirements.\",\"C\":5,\"O\":5,\"S\":2,\"T\":5,\"A\":2,\"R\":5}",
+   "fresh": "{\"diagnosis\":\": Response is factually correct but includes unnecessary stats and fails to meet style/audience requirements.\",\"C\":5,\"O\":5,\"S\":2,\"T\":5,\"A\":2,\"R\":5}"
+  },
+  {
+   "key": "phi4-mini|costar|IRO-01|C",
+   "identical": true,
+   "logged": "{\"diagnosis\":\": 'Sarcasm not detected, practical advice lacking.\",\"C\":4,\"O\":2,\"S\":5,\"T\":4,\"A\":4,\"R\":5}",
+   "fresh": "{\"diagnosis\":\": 'Sarcasm not detected, practical advice lacking.\",\"C\":4,\"O\":2,\"S\":5,\"T\":4,\"A\":4,\"R\":5}"
+  },
+  {
+   "key": "phi4-mini|costar|IDI-03|B",
+   "identical": true,
+   "logged": "{\"diagnosis\":\": 'Response misinterprets idiom, lacks clarity', \",\"C\":5,\"O\":2,\"S\":5,\"T\":5,\"A\":5,\"R\":5}",
+   "fresh": "{\"diagnosis\":\": 'Response misinterprets idiom, lacks clarity', \",\"C\":5,\"O\":2,\"S\":5,\"T\":5,\"A\":5,\"R\":5}"
+  },
+  {
+   "key": "phi4-mini|plain|REF-02|B",
+   "identical": true,
+   "logged": "{\"score\":10}",
+   "fresh": "{\"score\":10}"
+  },
+  {
+   "key": "qwen3vl-2b|REG-01",
+   "identical": true,
+   "logged": "Dear Professor Rao,\n\nI hope this message finds you well. I\u2019m writing to request a one-week extension for my chapter draft due to the delayed arrival of my fieldwork data. I\u2019ve attached the revised version of the chapter, and I\u2019ll make sure to submit it by the original deadline. I appreciate your understanding and guidance on this matter.  \n\nBest regards,  \n[Your Full Name]  \n[Your Student ID]  \n[Your Program/Department]",
+   "fresh": "Dear Professor Rao,\n\nI hope this message finds you well. I\u2019m writing to request a one-week extension for my chapter draft due to the delayed arrival of my fieldwork data. I\u2019ve attached the revised version of the chapter, and I\u2019ll make sure to submit it by the original deadline. I appreciate your understanding and guidance on this matter.  \n\nBest regards,  \n[Your Full Name]  \n[Your Student ID]  \n[Your Program/Department]"
+  }
+ ]
+}
