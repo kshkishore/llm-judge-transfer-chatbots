@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use these data or code, please cite the article."
 title: "Do Validated LLM Judges Transfer to Real Chatbot Replies? Data, code and logs"
 authors:
-  - family-names: Kishore
-    given-names: Katikela Sreeharsha
+  - family-names: Katikela
+    given-names: Sreeharsha Kishore
     orcid: "https://orcid.org/0009-0006-6919-700X"
     affiliation: "Centre for Applied Linguistics and Translation Studies, University of Hyderabad"
   - family-names: Ithagani
@@ -15,8 +15,8 @@ preferred-citation:
   type: article
   title: "Do Validated LLM Judges Transfer to Real Chatbot Replies? Judge Disagreement, Rule-Based Checks and Implications for Evaluating Conversational Agents"
   authors:
-    - family-names: Kishore
-      given-names: Katikela Sreeharsha
+    - family-names: Katikela
+      given-names: Sreeharsha Kishore
     - family-names: Ithagani
       given-names: Venkanna
   journal: "International Journal of Human–Computer Interaction"

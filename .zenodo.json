@@ -1,0 +1,13 @@
+{
+  "title": "Do Validated LLM Judges Transfer to Real Chatbot Replies? Data, code and logs",
+  "upload_type": "dataset",
+  "description": "Data, code and complete model-call logs for the article \"Do Validated LLM Judges Transfer to Real Chatbot Replies? Judge Disagreement, Rule-Based Checks and Implications for Evaluating Conversational Agents\". Includes the 160 requests with specifications, the replies of two open-source chatbots, the outputs of two open-weight LLM judges, rule-based checks, automatic metrics, analysis scripts and the values behind all tables and figures. Data are licensed CC BY 4.0; code is licensed MIT.",
+  "creators": [
+    {"name": "Katikela, Sreeharsha Kishore", "affiliation": "Centre for Applied Linguistics and Translation Studies, University of Hyderabad", "orcid": "0009-0006-6919-700X"},
+    {"name": "Ithagani, Venkanna", "affiliation": "Centre for Applied Linguistics and Translation Studies, University of Hyderabad"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["conversational agents", "chatbot evaluation", "LLM-as-a-judge", "validity", "human-AI interaction", "pragmatics"],
+  "access_right": "open",
+  "language": "eng"
+}
